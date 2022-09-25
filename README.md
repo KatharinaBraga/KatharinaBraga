@@ -1,5 +1,5 @@
 - 👋 Olaaaaá! Sou a Katharina Braga
-- 👀 Eu gosto muitode games, tecnologia e programação
+- 👀 Eu gosto muito de games, tecnologia e programação
 - 🌱 Eu estou estudando Jogos Digitais
 - 💞️ Estou procurando colaborar em programação de games na Unity
 - 📫 Caso queira me contatar, mande uma menagem para o e-mail kate_verch12@outlook.com !
